@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **MERN**
 
-- 💬 Ask me about **Javascript
+- 💬 Ask me about Javascript
 
 - 📫 How to reach me **jmestmnag@gmail.com**
 
