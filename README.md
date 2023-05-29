@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojghalan" alt="sarojghalan" /></a> </p>
 
-- 🔭 I’m currently working on [ForeverYng](https://www.foreveryoung.creatudevelopers.com.np/)
+- 🔭 I’m currently working on [Shopify Nepal](https://stagging.shopifynepal.com/)
 
 - 🌱 I’m currently learning **WebRTC , blockchain**
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
 - 🤝 I’m looking for help with **MERN**
-
-- 💬 Ask me about **Js , react , node**
 
 - 📫 How to reach me **jmestmnag@gmail.com**
 
