@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Shopify Nepal](https://stagging.shopifynepal.com/)
 
-- 🌱 I’m currently learning **WebRTC , blockchain**
+- 🌱 I’m currently learning **Typescript , Next JS**
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
