@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojghalan" alt="sarojghalan" /></a> </p>
 
-- 🔭 I’m currently working on [Shopify Nepal](https://stagging.shopifynepal.com/)
+- 🔭 I’m currently working on [Shopify Nepal](https://stagging.shopifynepal.com/.com.np/)
 
 - 🌱 I’m currently learning **Typescript , Next JS**
 
@@ -13,9 +13,11 @@
 
 - 🤝 I’m looking for help with **MERN**
 
+- 💬 Ask me about **Js , react , node**
+
 - 📫 How to reach me **jmestmnag@gmail.com**
 
-- ⚡ Fun fact **I don't know how to print "Hello World" .**
+- ⚡ Fun fact **Time, Tide and Javascript waits for nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
