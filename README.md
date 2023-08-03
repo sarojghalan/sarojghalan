@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojghalan" alt="sarojghalan" /></a> </p>
 
-- 🔭 I’m currently working on [Shopify Nepal](https://stagging.shopifynepal.com/.com.np/)
+- 🔭 I’m currently working on [Shopify Nepal](https://stagging.shopifynepal.com)
 
 - 🌱 I’m currently learning **Typescript , Next JS**
 
