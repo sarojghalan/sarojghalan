@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saroj Ghalan</h1>
 <h3 align="center">Can I Code ? Am I In it ?</h3>
+  
+<img align="center"  width="46%"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+  
+  <img src="https://camo.githubusercontent.com/4219e57ec34fd1347b410baf7a1c092da77ca92c78dc798babae3a80b59bc649/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736174616e37353439" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojghalan&label=Profile%20views&color=0e75b6&style=flat" alt="sarojghalan" /> </p>
 
