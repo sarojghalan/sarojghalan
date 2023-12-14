@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saroj Ghalan</h1>
 <h3 align="center">Can I Code ? Am I In it ?</h3>
 
-<a align="center" href="https://app.daily.dev/sarojghalan"><img align="center" src="https://api.daily.dev/devcards/fed8b62183d6426798342b8e481f671f.png?r=npk" width="400" alt="saroj ghalan's Dev Card"/></a>
+<h3 align="center"><a href="https://app.daily.dev/sarojghalan"><img align="center" src="https://api.daily.dev/devcards/fed8b62183d6426798342b8e481f671f.png?r=npk" width="400" alt="saroj ghalan's Dev Card"/></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojghalan&label=Profile%20views&color=0e75b6&style=flat" alt="sarojghalan" /> </p>
 
