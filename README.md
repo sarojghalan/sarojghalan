@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saroj Ghalan</h1>
 <h3 align="center">Can I Code ? Am I In it ?</h3>
+
+<a href="https://app.daily.dev/sarojghalan"><img src="https://api.daily.dev/devcards/fed8b62183d6426798342b8e481f671f.png?r=npk" width="400" alt="saroj ghalan's Dev Card"/></a>
   
 <img align="center"  width="100%"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
